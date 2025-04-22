@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hey, I'm Gabryel Medeiros
 
-<!--
-**gabryelmedeiros/gabryelmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UERJ · Passionate about AI, data, and building smart solutions that solve real problems.
 
-Here are some ideas to get you started:
+🔧 Currently a Data Engineering intern at BNDES, where I work with:
+- Data pipeline development and orchestration
+- Automation of data workflows and ingestion processes
+- Query optimization and data transformation for analysis and decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 I also work with:
+- Machine learning and data analysis
+- Generative AI and agent orchestration (LangChain, CrewAI)
+- Research in Federated Learning (distributed ML with privacy focus)
+- Visualization using Python libraries and BI tools
+
+🌱 Currently working on personal projects involving:
+- LLM-based assistants
+- Prompt engineering
+- Data storytelling
+
+📌 I don’t showcase company-related work here, but all my public repos are real experiments, research, and hands-on learning.
+
+Let's connect: [LinkedIn](https://www.linkedin.com/in/gabryel-medeiross).
